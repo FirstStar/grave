@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#row-2nd {
+    position: relative;
+    background: url(./image/psb_mono.png) no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+    padding: 200px 0;
+}
+#row-2nd-in {
+    background-color: rgba(255,255,255,0.7);
+    padding: 50px 10px;
+    margin: 0 auto;
+    width: 90%;
+    max-width: 350px;
+    font-size: 1rem;
+    line-height: 1.7;
+}
+ 
+@media only screen and (max-width: 480px) {
+    #row-2nd {
+        overflow: scroll;
+    }
+    #row-2nd-in {
+        width: 100%;
+    }  
+}
