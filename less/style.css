@@ -1,0 +1,8 @@
+.jumbotron {
+  background-image: url("images/psb_mono.png");
+  background-size: cover;
+  background-position: 60%;
+}
+h1 a:visited {
+  color: 67696c;
+}
