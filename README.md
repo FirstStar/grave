@@ -8,4 +8,4 @@
 * two.js
   
 # Made in 
-ONOUE Origami || 15NC033
+ONOUE Origami
